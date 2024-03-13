@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello reader
+My name is Irene and as you might assume, I'm a computer scientist! I am interested in deep learning, computer vision, NLP, and AI in general! 
+Feel free to take a look around my github and see my past and current projects!! ;)
 
 <!--
 **irenegentilini/irenegentilini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
